@@ -65,4 +65,3 @@ All results are plotted automatically using the provided MATLAB analysis script.
 
 ---
 
-## 📂 File Structure
